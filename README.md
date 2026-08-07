@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-With **4+ years of experience** building end-to-end web applications, I focus on creating scalable, maintainable, and high-performance solutions.
+With **4+ years of experience** building end-to-end web applications, I focus on developing scalable, maintainable, and high-performance solutions. I have hands-on experience with both backend and frontend development, API integration, database design, and deploying applications to production.
 
 ---
 
