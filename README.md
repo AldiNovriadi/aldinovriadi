@@ -2,11 +2,7 @@
 
 ### Full Stack Developer
 
-Full Stack Developer with **4+ years of experience** building end-to-end web applications, focused on creating scalable, maintainable, and high-performance solutions.
-
-## 🌐 Portfolio
-
-🔗 https://aldinovriadi-portofolio.vercel.app/
+With **4+ years of experience** building end-to-end web applications, I focus on creating scalable, maintainable, and high-performance solutions.
 
 ---
 
